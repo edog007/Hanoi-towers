@@ -6,4 +6,4 @@ pip install pygame
 
 Run
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/edog007/Hanoi-towers/blob/main/hanoi-towers-clip.gif)
